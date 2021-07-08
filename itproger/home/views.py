@@ -3,4 +3,4 @@ from django.http import HttpResponse
 
 
 def index(request):
-    return HttpResponse('<h3>Это главная страница</h4>')
+    return HttpResponse("<img src='https://itproger.com/img/courses/1479108898.jpg'>")

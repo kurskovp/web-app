@@ -45,7 +45,7 @@ EXTERNAL_APPS = [
 ]
 
 APPS = [
-    'main'
+    'main',
     'home'
 
 ]
