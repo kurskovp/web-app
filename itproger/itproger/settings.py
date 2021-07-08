@@ -46,7 +46,8 @@ EXTERNAL_APPS = [
 
 APPS = [
     'main',
-    'home'
+    'pictures_app'
+
 
 ]
 
